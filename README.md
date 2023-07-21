@@ -1,7 +1,7 @@
 <div id="header">
     <H1>Java Backend Developer</H1>
     <H1>
-        <div id="socials">
+        <div id="socials" align=right>
             <a href="https://www.linkedin.com/in/abguzij/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
             </a>
