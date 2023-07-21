@@ -1,4 +1,7 @@
-### Java Backend Developer 
+<div id="header">
+    <H1>Java Backend Developer</H1>
+    <H2>Contacts: </H2>
+</div>
 
 ## Contacts
 <div id="socials">
