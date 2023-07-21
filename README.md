@@ -9,6 +9,17 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;
+          
+
+
+
+
+
+
+
 <!--
 **abguzij/abguzij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
