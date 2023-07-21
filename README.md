@@ -1,7 +1,7 @@
-<div id=header, align = center>
-  <h1>Hello! I'm Java Backend Developer</h1>
-</div>
-<div id="socials" align="center">
+### Java Backend Developer
+
+##Contacts
+<div id="socials">
     <a href="https://www.linkedin.com/in/abguzij/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
