@@ -1,14 +1,13 @@
 <div id="header">
-    <H1>Java Backend Developer
-        <div id="socials" align>
-            <a href="https://www.linkedin.com/in/abguzij/">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-            </a>
-            <a href="https://t.me/abguziy">
-                <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-            </a>
-        </div>
-    </H1>
+    <H1>Java Backend Developer</H1>
+</div>
+<div id="socials" align>
+    <a href="https://www.linkedin.com/in/abguzij/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/abguziy">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
 </div>
 
 
