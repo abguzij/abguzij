@@ -1,7 +1,7 @@
 <div id="header">
     <H1>Java Backend Developer</H1>
-    <H2>
-        Contacts:<div id="socials">
+    <H1>
+        <div id="socials">
             <a href="https://www.linkedin.com/in/abguzij/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
             </a>
@@ -9,7 +9,7 @@
                 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
             </a>
         </div>
-    </H2>
+    </H1>
 </div>
 
 
